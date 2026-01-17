@@ -4,7 +4,7 @@
 
 ---
 layout: forward
-target: https://monoxidexz.github.io/news/
+target: https://robloxloadinggui.github.io/news/
 ---
 # yes
 
