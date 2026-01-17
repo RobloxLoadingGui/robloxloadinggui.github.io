@@ -4,7 +4,7 @@
 
 ---
 layout: forward
-target: https://arbifoxx.github.io/news/
+target: https://monoxidexz.github.io/news/
 ---
 # yes
 
